@@ -1,2 +1,2 @@
-# Bootcamp-Assigntments
+# Excel-Challenge
 Rutgers Data Science Bootcamp Work
